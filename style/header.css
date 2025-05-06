@@ -1,0 +1,33 @@
+.logo {
+    font-family: 'Roboto Slab', serif;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    white-space: nowrap;
+}
+.subscribe-btn {
+    background-color: #dbff59;
+    font-weight: bold;
+    padding: 0.4rem 2.5rem;
+    border-radius: 4px;
+    text-align: center;
+    display: inline-block;
+    border: none;
+}
+.nav-icons i {
+    font-size: 1rem;
+    margin-right: 1rem;
+    cursor: pointer;
+}
+
+.small-text{
+    font-size: .75rem;
+}
+
+.button-text{
+    font-size: .9rem;
+}
+
+.navbar-font{
+    font-family: 'Railway', sans-serif;
+}
